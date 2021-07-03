@@ -9,10 +9,11 @@
 <p align="left">
   🦄 Tecnologias: <strong>HTML, CSS, JS, Node.js e MongoDB</strong>
 </p>
-
+<!--
 <p align="left">
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
 </p>
+-->
 
 <p align="left">
   💌 Fique a vontade para entrar em contato comigo ⤵️
