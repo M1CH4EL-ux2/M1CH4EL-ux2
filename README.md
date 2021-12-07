@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>HTML, CSS3, SASS, JS, Node.js e MongoDB</strong>
+  🦄 Tecnologias: <strong>HTML, CSS3, SASS, JS, ReactJS e NextJS</strong>
 </p>
 <!--
 <p align="left">
