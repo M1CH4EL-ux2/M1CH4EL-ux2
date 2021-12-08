@@ -2,10 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Meu nome é Michael, sou um desenvolvedor web front-end louco por tecnologias e afins, sempre buscando aprimorar meus conhecimentos.
-</p>
-
 <p align="left">
   🦄 Tecnologias: <strong>HTML, CSS3, SASS, JS, ReactJS e NextJS</strong>
 </p>
