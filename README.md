@@ -1,6 +1,5 @@
 ### Opa, Bom dia 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
   🦄 Tecnologias: <strong>HTML, CSS3, SASS, JS, ReactJS e NextJS</strong>
