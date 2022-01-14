@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  🦄 Tecnologias: <strong>HTML, CSS3, SASS, JS, ReactJS e NextJS</strong>
+  🦄 Tecnologias: <strong>HTML, CSS3, SASS, JS, Java, ReactJS e NextJS</strong>
 </p>
 <!--
 <p align="left">
