@@ -18,9 +18,6 @@
   <a href="https://joaomichael912@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.instagram.com/michael_lima02/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-
 [![card](https://github-readme-stats.vercel.app/api?username=M1CH4EL-ux2&theme=radical)](https://github.com/M1CH4EL-ux2/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=M1CH4EL-ux2&hide=html&layout=compact&theme=radical)](https://github.com/M1CH4EL-ux2/)
   
